@@ -4,4 +4,10 @@
     <string name="ask_your_question">Ask Your Question?</string>
     <string name="oracle_answer">Answer</string>
     <string name="ask_button_text">Ask</string>
+
+    <string-array name="answers">
+        <item>Yes</item>
+        <item>No</item>
+        <item>Maybe</item>
+    </string-array>
 </resources>

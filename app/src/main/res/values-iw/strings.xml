@@ -5,4 +5,10 @@
     <string name="ask_the_oracle">הצג שאלתך לכדור הפלא</string>
     <string name="ask_your_question">הצג שאלה?</string>
     <string name="oracle_answer">תשובה</string>
+
+    <string-array name="answers">
+        <item>כן</item>
+        <item>לא</item>
+        <item>אולי</item>
+    </string-array>
 </resources>

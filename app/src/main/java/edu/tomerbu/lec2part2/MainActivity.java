@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     private Button btnAsk;
     private ProgressBar progress;
     //an array of all possible answers:
-    private String[] answers = {"Yes", "No", "Maybe"};
+    private String[] answers; //= {"Yes", "No", "Maybe"};
     //random number generator helper class:
     private Random rand = new Random();
 
@@ -26,6 +26,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        //use the array we defined in res folder:
+        answers = getResources().getStringArray(R.array.answers);
+
 
         //connect the variables using their id's
         etQuestion = findViewById(R.id.edit_your_quesion);
