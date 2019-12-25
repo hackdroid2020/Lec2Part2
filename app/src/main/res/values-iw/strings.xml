@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">שאל את האורקל</string>
+    <string name="ask_button_text">שאל</string>
+    <string name="ask_the_oracle">הצג שאלתך לכדור הפלא</string>
+    <string name="ask_your_question">הצג שאלה?</string>
+    <string name="oracle_answer">תשובה</string>
+</resources>

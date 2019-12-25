@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Don\'t Think - Ask!</string>
+    <string name="ask_the_oracle">Ask The Oracle</string>
+    <string name="ask_your_question">Ask Your Question?</string>
+    <string name="oracle_answer">Answer</string>
+    <string name="ask_button_text">Ask</string>
+</resources>
