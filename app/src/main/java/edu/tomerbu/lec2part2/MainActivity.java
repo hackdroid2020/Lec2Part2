@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //use the array we defined in res folder:
+        //use the array we defined in res folder: d
         answers = getResources().getStringArray(R.array.answers);
 
 
